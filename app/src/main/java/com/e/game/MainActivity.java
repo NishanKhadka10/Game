@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else
                 {
+                     
                     int sub = b-1;
                     tvoutput.setText(Integer.toString(sub));
                     return;
